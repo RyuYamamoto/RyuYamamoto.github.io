@@ -16,11 +16,11 @@ title: Portfolio
 ## 経歴
 
 - 2020/2 〜
-  - [TIER IV](https://tier4.jp/).
+  - [TIER IV](https://tier4.jp/)
   - 自動運転システムの開発。主にLocalization / Mappingを担当
   - 自動運転バスのインテグレーションやOSS開発
 - 2018/4 〜 2020/1
-  - [SoftBank](https://www.softbank.jp/).
+  - [SoftBank](https://www.softbank.jp/)
   - コミュニケーションロボット「Pepper」のBtoB向けアプリ開発や自律移動機能開発を担当
   - 屋外自律移動ロボット開発に参加しソフトウェアを担当。つくばチャレンジ2019に参加
 - 2016/3 〜 2018/3
