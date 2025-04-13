@@ -1,0 +1,84 @@
+/* タイトルタイルグリッド */
+.title-tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+/* タイトルタイル */
+.title-tile {
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+  border: 1px solid #eaeaea;
+  overflow: hidden;
+}
+
+.title-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+}
+
+/* タイルリンク */
+.title-tile-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+}
+
+.title-tile-link:hover {
+  text-decoration: none;
+}
+
+/* タイルコンテンツ */
+.title-tile-content {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+/* アイコン */
+.project-icon {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #555;
+}
+
+/* プロジェクトタイトル */
+.project-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+  .title-tile-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .title-tile-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  
+  .title-tile-content {
+    padding: 15px;
+  }
+  
+  .project-icon {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .project-title {
+    font-size: 16px;
+  }
+}
