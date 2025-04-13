@@ -10,6 +10,8 @@ importance: 2
 
 [Zennでの詳細説明記事](https://zenn.dev/ame_b/articles/e08cd40e7c5ec8#lidar_graph_slam)
 
+[robosemiでの発表スライド](https://docs.google.com/presentation/d/18LZl9UycA94SWlix1NC5G5LR8gy0tD3lbmWHmmzUD6w/edit?usp=sharing)
+
 3D LiDARを用いたSLAMパッケージです。本パッケージはフロントエンド処理としてLiDARを用いたスキャンマッチングによるlidar odometry推定及び最適化候補となるキーフレームポーズ生成、バックエンド処理としてglobal map構築とループ検出及びポーズグラフ最適化による全体軌跡の修正を行っています。大まかなシステムとしては以下になります。
 
 ![navyu](/assets/project/lidar_graph_slam.png)

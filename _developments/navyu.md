@@ -10,6 +10,8 @@ importance: 1
 
 [Zennでの詳細説明記事](https://zenn.dev/ame_b/articles/e08cd40e7c5ec8#navyu)
 
+[robosemiでの発表スライド](https://docs.google.com/presentation/d/12HERjkPGpK72N3t_w2zwvdx7vWuWszgaAfPXFzT7Wps/edit?usp=sharing)
+
 本パッケージはPath Planning、Path FollowingまでまたがるNavigationパッケージになります。OSSのNavigationパッケージとして有名なのはmove_baseがありますが、ただこれを使うだけじゃ味気ないと思った自分はとりあえずNavigationパッケージを極力自力で書いてみようと思い立ちました。
 作成したシステムは大まかに以下の通りです。
 

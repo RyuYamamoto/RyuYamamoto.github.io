@@ -28,3 +28,12 @@ importance: 2
 <div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFtyY_FHnGM?si=COHiguASAA2lLmm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+シミュレータ環境構築
+
+[op3_webots](https://github.com/team-re-boot/op3_webots)  
+[choreonoid](https://github.com/team-re-boot/op3_simulator)
+
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zjLH_keN898?si=qvuBzTOpbqezx6Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
