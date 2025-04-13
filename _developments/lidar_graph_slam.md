@@ -14,4 +14,6 @@ importance: 2
 
 ![navyu](/assets/project/lidar_graph_slam.png)
 
+<div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhWxuyCu7Us?si=DILO9p9_bAIIm9-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

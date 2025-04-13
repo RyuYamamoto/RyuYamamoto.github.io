@@ -45,3 +45,19 @@ title: Portfolio
 {% for project in sorted_projects %}
 - [{{ project.title }}]({{ project.url | relative_url }}) {% if project.icon %}{{ project.icon }}{% endif %}
 {% endfor %}
+
+## 技術ブログ
+
+- [Zenn](https://zenn.dev/ame_b)
+- [Qiita](https://qiita.com/ryu_software)
+
+
+## 勉強会スライド
+
+- [自作2D Navigation パッケージ 「navyu」](https://docs.google.com/presentation/d/12HERjkPGpK72N3t_w2zwvdx7vWuWszgaAfPXFzT7Wps/edit?usp=sharing)
+- [2D SLAMにおけるScan Matchingアルゴリズムについて](https://docs.google.com/presentation/d/1Ug3iN_dS9tbv8h3ykxgRALGzIcdgnXafwgzDIzheE1s/edit?usp=sharing)
+- [Graph Based SLAM自作してみた](https://docs.google.com/presentation/d/18LZl9UycA94SWlix1NC5G5LR8gy0tD3lbmWHmmzUD6w/edit?usp=sharing)
+- [つくばチャレンジ2022参加記録](https://docs.google.com/presentation/d/10KhsEwSQv6nwBTWM269kcRIkFKNgbXMhEslA83VDCTY/edit?usp=sharing)
+- [GNSSでつくば環境にて自己位置推定チャレンジ](https://docs.google.com/presentation/d/1kUumwQ69fDNY8GnJVQPKn5p7CjEAiNLb7lAxuxDxHV8/edit?usp=sharing)
+- [つくばチャレンジに 参戦する話](https://docs.google.com/presentation/d/1PEKlDArnfvObvmC3bLJio3jT6WxBQFxUDMLezwO3Cq0/edit?usp=sharing)
+- [地図に対する点群除去手法 「removert」の論文・実装調査](https://docs.google.com/presentation/d/1X_vrjDEGDtXfIFaPiuBsyVm8uRB3cRG7Jv8s35Rxqek/edit?usp=sharing)
